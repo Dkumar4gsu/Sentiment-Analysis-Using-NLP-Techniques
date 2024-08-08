@@ -23,7 +23,11 @@ Sentiment analysis is a crucial task in understanding customer feedback, and thi
 **Technologies Used**
 
 **Python:** The primary programming language used for the entire project.
+
 **NLTK (Natural Language Toolkit):** Used extensively for various NLP tasks, including tokenization, stop word removal, and stemming.
+
 **Pandas:** A powerful data manipulation library that is used for handling and processing the review data.
+
 **Keras/TensorFlow:** These deep learning libraries are used to implement and train LSTM and GRU models. Keras provides a high-level interface for building neural networks, while TensorFlow serves as the backend engine.
+
 **Jupyter Notebook:** The project is developed and documented using Jupyter Notebooks, making it easy to visualize and interact with the code and results.
