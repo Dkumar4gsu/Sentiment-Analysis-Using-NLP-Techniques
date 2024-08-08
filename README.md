@@ -1,9 +1,9 @@
-Overview
+**Overview**
 This project is focused on analyzing the sentiment of product reviews by applying various Natural Language Processing (NLP) techniques. The primary goal is to classify product reviews into positive and negative sentiments using deep learning models, specifically LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) networks.
 
 Sentiment analysis is a crucial task in understanding customer feedback, and this project aims to build a robust pipeline that preprocesses text data, builds necessary features, and trains machine learning models to predict sentiment. The approach combines traditional NLP methods with deep learning to achieve accurate sentiment classification.
 
-Key Features
+**Key Features**
 Data Preprocessing: The project involves several preprocessing steps to clean and prepare the textual data for modeling. These steps include:
 
 Tokenization: Splitting text into individual words or tokens using the NLTK library.
@@ -15,7 +15,7 @@ Sentiment Classification: The core of the project is building and training LSTM 
 
 Model Training and Evaluation: The project includes training LSTM and GRU models on the processed data. It also involves evaluating the models using metrics such as accuracy, precision, recall, and F1-score to determine their effectiveness in sentiment classification.
 
-Technologies Used
+**Technologies Used**
 Python: The primary programming language used for the entire project.
 NLTK (Natural Language Toolkit): Used extensively for various NLP tasks, including tokenization, stop word removal, and stemming.
 Pandas: A powerful data manipulation library that is used for handling and processing the review data.
